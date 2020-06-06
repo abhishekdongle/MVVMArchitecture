@@ -1,2 +1,2 @@
 # MVVMArchitecture
-MVVM Architecture with Dagger 2
+MVVM Architecture with Dagger 2 in Java
